@@ -1,0 +1,29 @@
+h3{
+    font-size: 1rem;
+    color: rgb(45, 50, 95);
+    background-color: rgb(217, 230, 229);
+}
+h2{
+    font-size: 1.5em;
+    background-color: steelblue;
+    color: lightcyan;
+}
+}
+div> small{
+    font-size: 5em;
+    color: rgb(51, 30, 167);
+}
+h4{
+    font-size: 20px;
+    color: rgb(235, 224, 205);
+    background-color: rgb(51, 104, 148);
+}
+div > small{
+    background-color: darkslategray;
+}
+h1{
+    font-size: 1em;
+}
+h5{
+    color: steelblue;
+}
